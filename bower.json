@@ -1,0 +1,14 @@
+{
+  "name": "taskmanager",
+  "appPath": "src/main/webapp",
+  "authors": [
+    "Muhammad Huzaifa <49592304+HG025@users.noreply.github.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
